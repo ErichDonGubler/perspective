@@ -1,3 +1,17 @@
+# [v2.3.1](https://github.com/finos/perspective/releases/tag/v2.3.1)
+
+_28 June 2023_ ([Full changelog](https://github.com/finos/perspective/compare/v2.3.0...v2.3.1))
+
+Fixes
+
+- Fix OSX arm64 wheels [#2272](https://github.com/finos/perspective/pull/2272)
+- Write custom parser for us locale time string format [#2262](https://github.com/finos/perspective/pull/2262)
+
+Misc
+
+- Remove accidental test.only, ensure it never happens again [#2276](https://github.com/finos/perspective/pull/2276)
+- Add API to give number of views into table [#2267](https://github.com/finos/perspective/pull/2267)
+
 # [v2.3.0](https://github.com/finos/perspective/releases/tag/v2.3.0)
 
 _20 June 2023_ ([Full changelog](https://github.com/finos/perspective/compare/v2.2.1...v2.3.0))
